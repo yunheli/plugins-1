@@ -3,13 +3,13 @@
 	"packages": [
 		{
 			"name": "fir-cli",
-			"details": "https://github.com/FIRHQ/fir-cli",
+			"details": "https://github.com/yunheli/fir-cli",
 			"description": "fir upload plugin",
 			"labels": ["fir"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "1.4.9",
-			"latestCommit": "1fcc7d483bb2683c040a3f86062787bc042d0d24"
+			"tag": "1.4.9.1",
+			"latestCommit": "9653ef813ed0d2eb4838ee3c9232d0c5e33a642f"
 		}
 	]
 }
