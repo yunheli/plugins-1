@@ -8,8 +8,8 @@
 			"labels": ["fir"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "1.4.9.1",
-			"latestCommit": "9653ef813ed0d2eb4838ee3c9232d0c5e33a642f"
+			"tag": "1.4.9.2",
+			"latestCommit": "c84cefb9e920e0d89403ffd058102b32ff741de6"
 		}
 	]
 }
