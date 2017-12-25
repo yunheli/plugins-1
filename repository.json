@@ -3,7 +3,7 @@
 	"packages": [
 		{
 			"name": "fir-cli",
-			"details": "https://github.com/yunheli/fir-cli",
+			"source": "https://github.com/yunheli/fir-cli",
 			"description": "fir upload plugin",
 			"labels": ["fir"],
 			"author": "fir.im",
