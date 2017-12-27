@@ -10,6 +10,16 @@
 			"platform": ["*"],
 			"tag": "1.5.0.1",
 			"latestCommit": "2fb90dba50a0bc27b067c396c3e3f231cf3b04ac"
+		},
+		{
+			"name": "Git-Clone",
+			"source": "https://github.com/FlowCI/plugin-gitclone",
+			"description": "git clone plugin",
+			"labels": ["git"],
+			"author": "fir.im",
+			"platform": ["*"],
+			"tag": "0.1",
+			"latestCommit": "5ef3d1797ee49000ff0f6a36291882865a39a414"
 		}
 	]
 }
