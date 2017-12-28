@@ -14,8 +14,6 @@
 		{
 			"name": "Git-Clone",
 			"source": "https://github.com/FlowCI/plugin-gitclone",
-			"image": "maven:3.5-jdk-8",
-			"build": "mvn clean install -DskipTests=true",
 			"description": "git clone plugin",
 			"labels": ["git"],
 			"author": "fir.im",
