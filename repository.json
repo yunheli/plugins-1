@@ -18,8 +18,8 @@
 			"labels": ["git"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "0.1.1",
-			"latestCommit": "1049e74a280a64c76fa36ddb6f2c6c168b70f418"
+			"tag": "0.1.2",
+			"latestCommit": "a7379a6bc847f2739f035df9ad8f0b215a9f911e"
 		}
 	]
 }
