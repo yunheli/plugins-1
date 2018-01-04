@@ -20,6 +20,16 @@
 			"platform": ["*"],
 			"tag": "0.1.4",
 			"latestCommit": "79089ff97f481fbebabdad3535ee2a14bfc1afc8"
+		},
+		{
+			"name": "Artifact-Uploader",
+			"source": "https://github.com/yunheli/artifact_uploader",
+			"description": "Artifact uploader",
+			"labels": ["artifact", "uploader"],
+			"author": "fir.im",
+			"platform": ["*"],
+			"tag": "0.1.0",
+			"latestCommit": "da9b1d43c96468ea0d7ca8461f0ed437e1bbeff2"
 		}
 	]
 }
