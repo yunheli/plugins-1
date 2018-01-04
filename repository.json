@@ -8,8 +8,8 @@
 			"labels": ["fir", "uploader"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "1.6.1",
-			"latestCommit": "679685bd314cb0a4138e144ab3115628e8a5ba35"
+			"tag": "1.6.2",
+			"latestCommit": "14151a354ff5fd9b4d95b69b249bf1607dbba4f4"
 		},
 		{
 			"name": "Git-Clone",
