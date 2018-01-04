@@ -28,7 +28,7 @@
 			"labels": ["artifact", "uploader"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "0.1.0",
+			"tag": "0.1.1",
 			"latestCommit": "47cfbefcef3f9e3f76189c41d2bfbb0d4822ecec"
 		}
 	]
