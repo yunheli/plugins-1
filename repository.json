@@ -18,8 +18,8 @@
 			"labels": ["git", "clone"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "0.1.4",
-			"latestCommit": "79089ff97f481fbebabdad3535ee2a14bfc1afc8"
+			"tag": "0.1.6",
+			"latestCommit": "5a5c070f5b8df35c9d7a2865c3bbcd8b85d5eb46"
 		},
 		{
 			"name": "Artifact-Uploader",
